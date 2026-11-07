@@ -1,0 +1,10 @@
+{
+  "name": "Tarih Sayaç \u0026 Hatırlatıcı",
+  "description": "Mobil Uyumlu Tarih Bazlı Sayaç, Kalan/Geçen Süre Takibi ve Bildirim Sistemi",
+  "requestFramePermissions": [
+    "notifications"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
